@@ -7,7 +7,7 @@ o mesmo fica aguardando enquanto o cliente irá enviar uma mensagem (string) que
 
 pelo servidor, será retornada para o cliente. Aplicação Echo com Cliente Servidor em Python.
 
-
+<br>
 
 
 The present code brings the use of the Socket library in python, where when starting the server
